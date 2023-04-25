@@ -17,7 +17,7 @@
 Macを使用している場合は「`⌘ + ,`」 、Windowsを使用している場合は「`Ctrl + ,`」でユーザ設定を開くことができます。<br>
 ユーザー設定の検索で「`coding-partner`」と検索すると以下の項目が表示されます。
 
-<img src="./media/images/settings1.png" width="900">
+<img src="https://github.com/Gomican/coding-partner/blob/main/images/chat1.png" width="900">
 
 ### APIキーの設定
 **この項目の設定は必須です。**<br>
